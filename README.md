@@ -1,3 +1,2 @@
-# Projects
 
-Личные проекты.
+Personal projects.
